@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Updating Landlord data:]]>
+    </line>
+    <line>
+      <![CDATA[Landlord update verification complete for : {
+    "id": "19o6wgSI",
+    "firstName": "fname39",
+    "lastName": "lname46",
+    "trusted": false,
+    "apartments": [
+        
+    ]
+}]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3479" started-at="2018-09-01T01:07:54Z" finished-at="2018-09-01T01:07:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3479" started-at="2018-09-01T01:07:54Z" finished-at="2018-09-01T01:07:57Z">
+      <class name="LandlordTestCases.LandlordTest">
+        <test-method status="PASS" signature="UpdateLandLordData()[pri:0, instance:LandlordTestCases.LandlordTest@28feb3fa]" name="UpdateLandLordData" duration-ms="3434" started-at="2018-09-01T01:07:54Z" finished-at="2018-09-01T01:07:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Updating Landlord data:]]>
+            </line>
+            <line>
+              <![CDATA[Landlord update verification complete for : {
+    "id": "19o6wgSI",
+    "firstName": "fname39",
+    "lastName": "lname46",
+    "trusted": false,
+    "apartments": [
+        
+    ]
+}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- UpdateLandLordData -->
+      </class> <!-- LandlordTestCases.LandlordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

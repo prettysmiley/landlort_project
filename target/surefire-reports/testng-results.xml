@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Adding Landlord data:]]>
+    </line>
+    <line>
+      <![CDATA[Landlord ZDiv984C is added]]>
+    </line>
+    <line>
+      <![CDATA[Landlord add verification complete for : {
+    "id": "ZDiv984C",
+    "firstName": "Arlett",
+    "lastName": "Beattle",
+    "trusted": false,
+    "apartments": [
+        
+    ]
+}]]>
+    </line>
+  </reporter-output>
+  <suite name="LandlordTestCases.LandlordTest" duration-ms="3243" started-at="2018-09-11T01:58:13Z" finished-at="2018-09-11T01:58:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3243" started-at="2018-09-11T01:58:13Z" finished-at="2018-09-11T01:58:16Z">
+      <class name="LandlordTestCases.LandlordTest">
+        <test-method status="PASS" signature="addLandLordData()[pri:0, instance:LandlordTestCases.LandlordTest@7e0ea639]" name="addLandLordData" duration-ms="3209" started-at="2018-09-11T01:58:13Z" finished-at="2018-09-11T01:58:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Adding Landlord data:]]>
+            </line>
+            <line>
+              <![CDATA[Landlord ZDiv984C is added]]>
+            </line>
+            <line>
+              <![CDATA[Landlord add verification complete for : {
+    "id": "ZDiv984C",
+    "firstName": "Arlett",
+    "lastName": "Beattle",
+    "trusted": false,
+    "apartments": [
+        
+    ]
+}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addLandLordData -->
+      </class> <!-- LandlordTestCases.LandlordTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- LandlordTestCases.LandlordTest -->
+</testng-results>
